@@ -1,9 +1,5 @@
 # Leyendas costarricenses
 
-![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-01.png)
-![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-02.png)
-![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-03.png)
-
 Este proyecto frontend, libro virtual de leyendas costarricenses, consume el API del proyecto [Backend](https://github.com/tetohc/4thewords_backend_jerry_hurtado). Está construido con React y Vite, y utiliza Tailwind CSS junto con la librería daisyUI.
 
 ## Requisitos previos
@@ -39,3 +35,11 @@ yarn dev
 ```
 
 El proyecto se levantará en el puerto 3000.
+
+## Imágenes
+
+![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-01.png)
+
+![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-02.png)
+
+![Jerry Hurtado Banner](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/legends-03.png)
